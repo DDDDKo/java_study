@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+    <fullyQualifiedTypeName name="ch02.sample1"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="ch02.review.ExampleClass"/>
+    <fullyQualifiedTypeName name="javax.lang.model.element.VariableElement"/>
+    <fullyQualifiedTypeName name="ch02.C_AccessModifier"/>
+    <fullyQualifiedTypeName name="ch02.Dealer"/>
+    <fullyQualifiedTypeName name="ch02.Human1"/>
+    <fullyQualifiedTypeName name="ch02.Human"/>
+    <fullyQualifiedTypeName name="ch02.Developer"/>
+    <fullyQualifiedTypeName name="ch02.FootballPlayer1"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="ch03.Test4"/>
+    <fullyQualifiedTypeName name="ch03.Test5"/>
+    <fullyQualifiedTypeName name="ch03.SuperClass"/>
+    <fullyQualifiedTypeName name="org.jcp.xml.dsig.internal.dom.DOMTransform"/>
+    <fullyQualifiedTypeName name="ch03.MyClass"/>
+    <fullyQualifiedTypeName name="ch03.SubClass"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="car.Carclass"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

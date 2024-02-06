@@ -1,0 +1,9 @@
+package car;
+
+public class AutomaticCarClass extends Carclass {	//자동 변속기 자동차
+
+	AutomaticCarClass(String vin, String color, boolean isStart) {
+		super(vin, color, isStart);
+	}
+	
+}

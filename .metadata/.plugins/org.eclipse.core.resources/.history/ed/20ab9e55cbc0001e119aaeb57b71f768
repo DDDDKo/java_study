@@ -1,0 +1,27 @@
+package ch03;
+
+import java.util.List;
+
+class Member{
+	String name;
+	int age;
+	
+	Member (String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+	
+}
+
+
+public class D_Data {
+	
+	static List<Member>
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+}

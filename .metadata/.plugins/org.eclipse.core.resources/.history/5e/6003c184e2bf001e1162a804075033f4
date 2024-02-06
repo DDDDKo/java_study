@@ -1,0 +1,49 @@
+package car;
+
+public class CarClass implements Vehicle{
+	private String vin;
+	private String color;
+	private boolean isStart;
+	CarClass(String vin, String color, boolean isStart){
+		this.vin = vin;
+		this.color = color;
+		this.isStart = isStart;
+	}
+	String getVin() {
+		return vin;
+	}
+	void setVin(String vin) {
+		this.vin = vin;
+	}
+	String getColor() {
+		return color;
+	}
+	void setColor(String color) {
+		this.color = color;
+	}
+	boolean isStart() {
+		return isStart;
+	}
+	void setStart(boolean isStart) {
+		this.isStart = isStart;
+	}
+	
+	@Override
+	public void accelerate() {
+		System.out.println("수동 변속기 자동차가 가속합니다!");
+	}
+
+	@Override
+	public void stop() {
+		System.out.println("수동 변속기 자동차가 정차합니다!");
+	}
+
+	@Override
+	public void setStart() {
+		this.isStart = !isStart;
+	}
+	
+	
+	
+}
+

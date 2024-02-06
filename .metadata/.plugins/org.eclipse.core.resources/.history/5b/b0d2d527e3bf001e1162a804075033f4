@@ -1,0 +1,9 @@
+package car;
+
+public class PassengerTrain extends Train {
+
+	PassengerTrain(String trainNumber, String departureStation, String arrivalStation, boolean isStart) {
+		super(trainNumber, departureStation, arrivalStation, isStart);
+	}
+
+}

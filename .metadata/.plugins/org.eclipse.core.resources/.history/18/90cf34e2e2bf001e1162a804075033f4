@@ -1,0 +1,11 @@
+package car;
+
+public class App {
+
+	public static void main(String[] args) {
+		ManualCarClass manualCarClass = new ManualCarClass("차량번호 = \"10가1234\"", "색상 = \"blue\"", false, 0);
+		AutomaticCar automaticCarClass = new AutomaticCar("차량번호 = \"10가1234\"", "색상 = \"blue\"", false);
+		
+	}
+
+}

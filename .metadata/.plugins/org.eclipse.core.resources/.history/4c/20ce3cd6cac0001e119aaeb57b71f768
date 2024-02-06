@@ -1,0 +1,23 @@
+package ch03;
+
+class member{
+	String name;
+	int age;
+	
+	member(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+	
+}
+
+
+public class D_Data {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+}

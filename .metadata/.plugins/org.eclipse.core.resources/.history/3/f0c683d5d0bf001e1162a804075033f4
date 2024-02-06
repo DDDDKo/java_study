@@ -1,0 +1,32 @@
+package backjoon;
+
+//import java.util.Scanner;
+
+public class AAA {
+
+	public static void main(String[] args) {
+		int count = 1, m, startX, startY, stopX, stopY;
+		int movedistance = 1;
+//		Scanner scanner = new Scanner(System.in);
+//		m = scanner.nextInt();
+//		scanner.close();
+		m = 5;
+		int[][] box = new int[m][m];
+		for(int i = 0; i < box.length ; i++) {
+			for(int j = 0 ; j < box.length ; j++) {
+				box[i][j] = 0;
+			}
+		}
+		startX = (m-1) / 2;
+		startY = (m-1) / 2;
+		
+		
+		
+		for(int i = 0 ; i < m; i++) {
+			for(int j = 0 ; j < m ; j++) {
+				System.out.print(box[i][j]+"");
+			}
+			System.out.println(" ");
+		}
+	}
+}

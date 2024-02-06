@@ -1,0 +1,18 @@
+package car;
+
+public class ManualCarClass extends Carclass {	//수동 변속기 자동차
+	private int gear;
+	
+	ManualCarClass(String vin, String color, boolean isStart, int gear) {
+		super(vin, color, isStart);
+		this.gear = gear;
+	}
+
+	public int getGear() {
+		return gear;
+	}
+	public void setGear(int gear) {
+		this.gear = gear;
+	}
+	
+}

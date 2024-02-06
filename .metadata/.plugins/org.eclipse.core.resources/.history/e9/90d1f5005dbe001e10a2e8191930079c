@@ -1,0 +1,27 @@
+package backjoon;
+
+public class AAA {
+
+	public static void main(String[] args) {
+		
+		int num_str = 1234567890;
+		String str = Integer.toString(num_str);
+		for(int i = str.length()-1 ; i >= 0 ; i--) {
+			System.out.println(1+"의 자리수: " + str.charAt(i));
+		}
+		
+	}
+}
+
+
+
+class Solution {
+    public int solution(int num_str) {
+    	String str = Integer.toString(num_str);
+		for(int i = str.length() ; i >= 0 ; i--) {
+			for(int j = 1 ; j < str.length() ; j++)
+			System.out.println(Math.pow(10, j)+"의 자리수: " + str.charAt(i));
+		}
+		return 0;
+    }
+}

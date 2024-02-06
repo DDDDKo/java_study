@@ -1,0 +1,45 @@
+package backjoon;
+
+import java.util.Scanner;
+
+public class Snail {
+
+	public static void main(String[] args) {
+		int count = 1, m, startX, startY, stopX, stopY;
+		int movedistance = 1;
+		Scanner scanner = new Scanner(System.in);
+		m = scanner.nextInt();
+		scanner.close();
+		int[][] box = new int[m][m];
+		if(m/2==0) {
+			startX = (m/2)-1;
+			startY = (m/2)-1;
+			stopX = (m/2)-1;
+			stopY = m/2;
+		}else {
+			startX = m/2; 
+			startY = m/2;
+			stopX = m/2;
+			stopY = (m/2)+1;
+		}
+		while(count == m*m) {
+			while(startY == stopY) {	// 아래로 이동
+				if(startY == stopY) {
+					startX++;
+					break;
+				}
+				box[startX][startY] = count;
+				count++;
+			}
+			while(startX == stopX) {
+				if(startX == stopX) {
+					startY--;
+					break;
+				}
+				box[startX][startY] = count;
+				count++;
+			}
+		}
+
+	}
+}

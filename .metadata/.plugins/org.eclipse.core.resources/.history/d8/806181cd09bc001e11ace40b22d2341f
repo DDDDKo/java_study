@@ -1,0 +1,7 @@
+package ch02.review;
+
+public interface G_Message {
+	
+	
+	
+}

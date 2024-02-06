@@ -1,0 +1,9 @@
+1706665142766	Delete element
+1706666226521	Encapsulate field 'gear'
+1706667128107	Delete element
+1706668328112	Rename type 'Carclass'
+1706669143852	Rename type 'AutomaticCarClass'
+1706669158995	Rename type 'CarClass'
+1706669167387	Rename type 'ManualCarClass'
+1706669178605	Rename type 'TrainClass'
+1706669387191	Encapsulate field 'passengerCount'

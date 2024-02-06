@@ -1,0 +1,7 @@
+package car;
+
+public class Carclass {
+	String vin;
+	String color;
+	boolean isStart;
+}
