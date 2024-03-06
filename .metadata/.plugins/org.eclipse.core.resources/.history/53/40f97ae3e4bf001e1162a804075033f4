@@ -1,5 +1,0 @@
-package car;
-
-public class FreightTrain extends Train implements Vehicle{
-
-}

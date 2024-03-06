@@ -10,6 +10,8 @@
 	<item key="CallHierarchyViewPart.ratio3" value="500"/>
 	<item key="CallHierarchyViewPart.orientation" value="3"/>
 	<item key="CallHierarchyViewPart.ratio0" value="500"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Program Files (x86)\MySQL\mysql-connector-j-8.0.33"/>
+	<item key="UserLibraryLoadSaveDialog.size" value="480,510"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -48,7 +50,7 @@
 	<section name="CallHierarchySearchScope">
 	</section>
 	<section name="SourceActionDialog.methods">
-		<item key="VisibilityModifier" value="0"/>
+		<item key="VisibilityModifier" value="1"/>
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
@@ -71,7 +73,7 @@
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="SourceActionDialog.constructors">
-		<item key="VisibilityModifier" value="0"/>
+		<item key="VisibilityModifier" value="1"/>
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
@@ -125,6 +127,20 @@
 		<item key="DIALOG_Y_ORIGIN" value="68"/>
 		<item key="DIALOG_WIDTH" value="516"/>
 		<item key="DIALOG_HEIGHT" value="691"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="3"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="101"/>
+		<item key="DIALOG_Y_ORIGIN" value="-37"/>
+		<item key="DIALOG_WIDTH" value="373"/>
+		<item key="DIALOG_HEIGHT" value="549"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

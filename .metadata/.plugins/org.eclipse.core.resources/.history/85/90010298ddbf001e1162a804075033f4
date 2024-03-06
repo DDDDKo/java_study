@@ -1,8 +1,0 @@
-package car;
-
-public class TrainClass {
-	String trainNumber;
-	String departureStation;
-	String arrivalStation;
-	boolean isStart;
-}

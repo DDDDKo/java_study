@@ -1,8 +1,0 @@
-package ch02.review;
-
-public interface G_Message {
-	
-	public static final String GREETING_MESAAGE = "반갑습니다.";
-	public static final String GOODBYE_MESAAGE = "수고하셨습니다."
-	
-}

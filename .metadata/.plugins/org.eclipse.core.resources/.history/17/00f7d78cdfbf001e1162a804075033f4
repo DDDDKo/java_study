@@ -1,7 +1,0 @@
-package car;
-
-public interface Vehicle {
-	private void accelerate() {}
-	private void stop() {}
-	private void setStart() {}
-}

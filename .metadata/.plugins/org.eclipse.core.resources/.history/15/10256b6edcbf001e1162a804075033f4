@@ -1,9 +1,0 @@
-package car;
-
-public class AutomaticCarClass extends Carclass{
-
-	AutomaticCarClass(String vin, String color, boolean isStart) {
-		super(vin, color, isStart);
-	}
-	
-}

@@ -1,5 +1,0 @@
-package car;
-
-public class PassengerTrain extends Train {
-
-}
